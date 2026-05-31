@@ -114,3 +114,40 @@ gancho com tensão (contrarian / provocação / drama) + concretude (você, um n
 - Métrica usada = **impressão/alcance**, não engajamento qualificado nem lead gerado. Um gancho que atrai view não necessariamente gera negócio.
 - Parte do alcance alto de 2025 veio de **menções a perfis grandes** (alcance emprestado da rede da pessoa marcada), não só do mérito do gancho. Os dados atuais não marcam quais posts tinham menção — cruzar isso isolaria "gancho bom" de "alcance emprestado".
 - Datas de parte dos posts são estimadas (flag `data_estimada: true` no frontmatter); o detrend por mês é robusto a pequenos erros de data.
+
+---
+
+## 7. Tema importa pouco — o gancho é a alavanca
+
+Classificando os 143 posts por tema e medindo o desempenho **detrended** (impressão ÷ mediana do mês):
+
+| Tema | Posts | Mediana impressão | Ratio mediano |
+|---|---|---|---|
+| IA / Automação | 52 | 247 | **1.14** |
+| Mkt / Mídia | 11 | 496 | 1.03 |
+| Vendas / Comercial | 60 | 437 | 0.99 |
+| Gestão / Negócio | 18 | 359 | 0.82 |
+
+Os temas ficam quase empatados (0.82–1.14). **Tema é uma alavanca fraca para alcance.**
+Isso reforça a conclusão central deste documento: o que move o alcance é o **gancho
+(tensão + concretude)**, não o assunto. Trocar de tema não salva um gancho morno; e um
+gancho forte funciona em qualquer tema.
+
+### Implicação prática (tema ≠ lead)
+Alcance não é o objetivo final — lead qualificado é. Como o tema quase não muda o
+alcance, **escolha o tema pelo encaixe com o que a Gulp vende**, não para caçar view:
+
+- **Notícia pura de IA** ("X lançou Y") → pega curiosidade, mas atrai interessado em
+  novidade, não comprador; é commodity (qualquer um reposta) e não posiciona como
+  especialista.
+- **Conselho genérico de marketing/vendas** → baixo alcance e commodity.
+- **Ponto doce 🎯** → **IA/automação aplicada a uma dor concreta de operação, marketing
+  ou vendas B2B** — interseção entre o tema quente (IA) e o que a Gulp resolve. Ex. do
+  próprio acervo: *"Fechamos nosso primeiro cliente pelo ChatGPT"*, *"Como implantei
+  automações na minha operação"*, *"Ainda faz sentido atender leads manualmente?"*.
+  Pega o alcance do tema IA **e** posiciona o negócio.
+
+### O dado que fecharia a conta
+Esta análise usa **alcance**, não **lead gerado**. Para responder "qual tema/gancho gera
+cliente" (não só view), é preciso cruzar com o **CRM**: de qual post/tema vieram os leads
+que avançaram e fecharam. Esse é o próximo passo de maior valor.
