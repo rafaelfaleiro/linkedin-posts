@@ -29,5 +29,3 @@ Mapear o funil significa enxergar entradas, qualificação, contato, reunião, p
 Depois disso, a empresa consegue decidir se precisa mexer em investimento de marketing, processo, automação, abordagem comercial ou velocidade de atendimento.
 
 Sem dado por etapa, qualquer resposta é chute com cara de decisão.
-
-173 impressions

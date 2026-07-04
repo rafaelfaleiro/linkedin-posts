@@ -33,5 +33,3 @@ Antes de detalhar a solução, o vendedor precisa ter segurança sobre três coi
 Só depois a proposta entra com força.
 
 Ela conecta a solução ao impacto que o cliente reconhece, à decisão que precisa tomar e ao custo de continuar adiando o problema.
-
-142 impressions

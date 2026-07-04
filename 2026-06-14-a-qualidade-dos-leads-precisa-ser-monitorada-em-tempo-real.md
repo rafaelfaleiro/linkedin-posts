@@ -25,5 +25,3 @@ Com integrações via API a informação pode ser capturada em tempo real. Depoi
 O líder pergunta pelo WhatsApp o que aconteceu hoje. O agente já traz o que importa para decidir: volume de leads, mudança nas origens, travas no atendimento e avanço dos contatos pelo funil.
 
 Esse é o tipo de solução que a Gulp Digital implementa. Se a qualidade dos leads cai, a empresa age no mesmo dia. Não espera a reunião semanal para perceber que uma origem piorou ou que o primeiro contato virou gargalo.
-
-61 impressions

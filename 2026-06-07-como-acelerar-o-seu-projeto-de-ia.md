@@ -33,5 +33,3 @@ Testar IA deve fazer parte da sua estratégia.
 Se uma iniciativa não consegue sair do laboratório, a próxima decisão precisa ser objetiva: mudar escopo, levar para produção ou encerrar antes que continue drenando atenção do time.
 
 13/365
-
-131 impressions

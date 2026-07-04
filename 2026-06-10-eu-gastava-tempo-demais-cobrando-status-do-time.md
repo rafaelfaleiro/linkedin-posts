@@ -29,5 +29,3 @@ A cobrança não depende só da minha memória e o assunto chega para decisão s
 Esse é o tipo de aplicação que estamos construindo na Gulp Digital, agentes que ajudam empresas a acompanhar tarefas e reduzir cobrança manual.
 
 Se esse tipo de gargalo também consome sua agenda, me manda uma mensagem.
-
-190 impressions

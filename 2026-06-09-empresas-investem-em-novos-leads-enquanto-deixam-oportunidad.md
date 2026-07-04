@@ -47,5 +47,3 @@ Ele organiza a base e permite aplicar estratégias de resgate pela API oficial d
 A empresa deixa de tratar lead antigo como arquivo morto e passa a trabalhar uma base que já custou dinheiro para ser construída.
 
 Antes de comprar mais lead, vale olhar para as oportunidades que já levantaram a mão e ainda não foram resgatadas direito.
-
-133 impressions

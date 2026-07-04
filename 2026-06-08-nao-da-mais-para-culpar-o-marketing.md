@@ -31,5 +31,3 @@ Fica mais claro se o problema está na captação, na qualificação, no atendim
 A reunião entre marketing e vendas deixa de girar em torno de percepções.
 
 A liderança passa a discutir onde está o gargalo, quanto ele custa e qual ajuste precisa ser feito primeiro.
-
-109 impressions

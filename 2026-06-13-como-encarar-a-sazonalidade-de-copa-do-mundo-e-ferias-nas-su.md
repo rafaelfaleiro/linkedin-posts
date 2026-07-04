@@ -25,5 +25,3 @@ A sazonalidade também mostra o que a rotina cheia costuma esconder. Propostas f
 Esse corte melhora a previsão comercial.
 
 A carteira fica mais limpa quando o time sabe quais negócios ainda têm próximo passo concreto, quais precisam amadurecer e quais só estavam ocupando espaço no forecast.
-
-63 impressions

@@ -53,5 +53,3 @@ A operação melhora quando o time aprende a resolver com mais critério, menos 
 Na era da IA, delegar continua sendo função do líder.
 
 Agora essa delegação passa por ensinar o time a usar IA com critério.
-
-254 impressions

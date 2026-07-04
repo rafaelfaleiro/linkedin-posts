@@ -39,5 +39,3 @@ Para uma empresa, testar toda IA nova é menos importante do que manter a fila l
 Depois que o trabalho certo está escolhido, mais potência ajuda muito.
 
 Antes disso, ela só faz a decisão errada chegar mais cedo.
-
-153 impressions
