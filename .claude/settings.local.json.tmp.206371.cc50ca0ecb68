@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Read(//home/rafa-note/.claude/projects/**)",
+      "Bash(git -C ~/linkedin-posts log --oneline --format=\"%ai %s\")",
+      "Bash(git add *)",
+      "Bash(git -c user.email=rafael@gulp.digital -c 'user.name=Rafael Faleiro' commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(weasyprint /tmp/icp_gulp.html \"/home/rafa-note/Desktop/ICP-Segmentos-Prospeccao-Gulp.pdf\")",
+      "Read(//home/rafa-note/Desktop/**)",
+      "Bash(timeout 120 libreoffice --headless --convert-to pdf --outdir /tmp /tmp/icp_gulp.html)",
+      "Bash(ls -la /tmp/icp_gulp.pdf)",
+      "Bash(git -c user.email=rafael@gulp.digital -c 'user.name=Rafael Faleiro' commit -q -m 'Adiciona 20 posts \\(15/06 a 04/07/2026\\) — total 177 posts')"
+    ]
+  }
+}
