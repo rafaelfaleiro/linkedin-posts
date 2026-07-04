@@ -1,7 +1,7 @@
 ---
 data: 2026-05-28
 url: https://www.linkedin.com/feed/update/urn:li:activity:7465705595292147712/
-visualizacoes: 123
+visualizacoes: 151
 formato do post: texto puro
 ---
 
