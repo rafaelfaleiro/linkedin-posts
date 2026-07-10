@@ -4,6 +4,7 @@ url:
 visualizacoes: 301
 formato do post: texto puro
 data_estimada: true
+impulso_externo: true   # Rafael pediu a um amigo de perfil grande para interagir — único post com interação solicitada; excluir de análises de alcance orgânico
 ---
 
 # Teste grátis um CRM feito para quem vende pelo WhatsApp.
