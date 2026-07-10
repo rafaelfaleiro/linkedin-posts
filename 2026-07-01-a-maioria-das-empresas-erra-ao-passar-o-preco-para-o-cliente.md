@@ -1,26 +1,26 @@
 ---
 data: 2026-07-01
 url:
-visualizacoes: 85
+visualizacoes: 119
 formato do post: texto puro
 data_estimada: true
+gancho_editado: true
+gancho_anterior: "A maioria das empresas erra ao passar o preço para o cliente."
 ---
 
-# A maioria das empresas erra ao passar o preço para o cliente.
+# Eu já perdi venda por não saber como passar o preço do meu serviço.
 
-A maioria das empresas erra ao passar o preço para o cliente.
+Conduzir uma reunião comercial exige técnica. Melhorei meus resultados depois que passei a usar esse script:
 
-Em uma reunião comercial, somente depois desse caminho bem feito é que você deve passar o preço:
-
-Primeiro, você entende o problema do cliente.
+Primeiro, entender o problema do cliente.
 
 Não só o que ele pediu, mas o que está travando a operação, a venda, o crescimento ou a decisão.
 
-Depois, você organiza esse problema com clareza.
+Depois, organizar esse problema com clareza.
 
 Mostra para o cliente o que você entendeu, quais pontos realmente importam e por que aquilo precisa ser resolvido agora.
 
-Só então você apresenta uma solução.
+Só então você apresentar uma solução.
 
 E essa solução precisa estar conectada ao problema que acabou de ser discutido. A apresentação deixa de girar em torno da sua empresa e passa a responder ao que o cliente reconheceu como importante.
 
@@ -34,7 +34,7 @@ Se ele não enxergou a solução como adequada, o preço vira comparação.
 
 Se ele não percebeu prioridade, o preço vira algo para pensar depois.
 
-Por isso, antes de apresentar o investimento, faça essa pergunta:
+Antes de apresentar o investimento, faça essa pergunta:
 
 "Pelo que conversamos, você acredita que essa solução resolve o que vocês precisam agora?"
 

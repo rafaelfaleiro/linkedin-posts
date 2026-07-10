@@ -1,14 +1,14 @@
 ---
 data: 2026-07-02
 url:
-visualizacoes: 99
+visualizacoes: 142
 formato do post: texto puro
 data_estimada: true
+gancho_editado: true
+gancho_anterior: "Antes de aprovar um plano importante, faça isso usando Claude ou ChatGPT."
 ---
 
-# Antes de aprovar um plano importante, faça isso usando Claude ou ChatGPT.
-
-Antes de aprovar um plano importante, faça isso usando Claude ou ChatGPT.
+# Antes de aprovar um plano importante, sempre faço isso usando o Claude.
 
 Pode ser uma ideia, uma proposta comercial, uma nova oferta, uma campanha ou qualquer decisão que vá consumir orçamento, prazo e time.
 
