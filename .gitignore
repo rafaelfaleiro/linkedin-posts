@@ -1,3 +1,7 @@
 _feed.txt
 _*.py
 ANALISE-*.md
+
+# Análises e dados locais de LinkedIn (NÃO subir — repo público)
+analises-linkedin/
+.playwright-mcp/
