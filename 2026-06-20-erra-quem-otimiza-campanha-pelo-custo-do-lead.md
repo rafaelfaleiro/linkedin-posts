@@ -1,14 +1,14 @@
 ---
 data: 2026-06-20
 url:
-visualizacoes: 155
+visualizacoes: 117
 formato do post: texto puro
 data_estimada: true
+gancho_editado: true
+gancho_anterior: "Erra quem otimiza campanha pelo custo do lead."
 ---
 
-# Erra quem otimiza campanha pelo custo do lead.
-
-Erra quem otimiza campanha pelo custo do lead.
+# O erro que mais vejo é gestor otimizando campanha pelo custo do lead.
 
 CPL baixo pode até parecer eficiência. O problema é que, quando essa vira a principal referência da campanha, o marketing ensina o algoritmo a buscar mais formulários preenchidos, não necessariamente mais clientes bons.
 
@@ -29,3 +29,6 @@ Com esse dado, a decisão de mídia muda. Um canal com CPL maior pode merecer ma
 CPL continua ajudando a controlar custo, mas não deveria ser o centro da otimização quando a empresa já consegue devolver dados melhores para a plataforma.
 
 A campanha precisa aprender com o cliente que chega perto da receita, não com qualquer pessoa que aceitou preencher um formulário.
+
+- - -
+Somos a Gulp Digital e implantamos soluções digitais para o crescimento e eficiência da sua empresa.

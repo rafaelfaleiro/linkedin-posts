@@ -1,7 +1,7 @@
 ---
 data: 2026-07-01
 url:
-visualizacoes: 119
+visualizacoes: 200
 formato do post: texto puro
 data_estimada: true
 gancho_editado: true

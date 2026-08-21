@@ -1,7 +1,7 @@
 ---
 data: 2026-07-15
 url:
-visualizacoes: 225
+visualizacoes: 239
 formato do post: texto puro
 data_estimada: true
 ---
